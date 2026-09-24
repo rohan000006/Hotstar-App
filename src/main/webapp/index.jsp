@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon">
 
     <!-- ------------------ Title ------------------ -->
-    <title>Disney+ Hotstar - Watch TV Shows Online</title>
+    <title>Disney + Hotstar</title>
 
     <!-- ------------------ Style Sheet ------------------ -->
     <link rel="stylesheet" href="./assets/css/style.css">
@@ -22,8 +22,8 @@
         <img src="./assets/img/logo (1).svg" class="logo" alt="Logo">
         <ul class="nav-links">
             <li class="nav-items"><a href="#">TV</a></li>
-            <li class="nav-items"><a href="#">CINEMAS</a></li>
-            <li class="nav-items"><a href="#">   good</a></li>
+            <li class="nav-items"><a href="#">Cinemas</a></li>
+            <li class="nav-items"><a href="#">Hotstar</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
             <li class="nav-items"><a href="#">Disney+</a></li>
             <li class="icon"><a href="#"></a></li>
